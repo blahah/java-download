@@ -1,0 +1,222 @@
+[
+  {
+    "build": "b14",
+    "file": "jre-8u92-linux-x64.tar.gz",
+    "type": "jre",
+    "version": 8,
+    "rev": 92,
+    "platform": "linux",
+    "arch": "x64",
+    "ext": "tar.gz"
+  },
+  {
+    "build": "b13",
+    "file": "jre-8u92-linux-i586.tar.gz",
+    "type": "jre",
+    "version": 8,
+    "rev": 92,
+    "platform": "linux",
+    "arch": "i586",
+    "ext": "tar.gz"
+  },
+  {
+    "build": "b13",
+    "file": "jre-8u92-macosx-x64.dmg",
+    "type": "jre",
+    "version": 8,
+    "rev": 92,
+    "platform": "macosx",
+    "arch": "x64",
+    "ext": "dmg"
+  },
+  {
+    "build": "b13",
+    "file": "jre-8u92-windows-i586.exe",
+    "type": "jre",
+    "version": 8,
+    "rev": 92,
+    "platform": "windows",
+    "arch": "i586",
+    "ext": "exe"
+  },
+  {
+    "build": "b13",
+    "file": "jre-8u92-windows-x64.exe",
+    "type": "jre",
+    "version": 8,
+    "rev": 92,
+    "platform": "windows",
+    "arch": "x64",
+    "ext": "exe"
+  },
+  {
+    "build": "b13",
+    "file": "jdk-8u92-linux-x64.tar.gz",
+    "type": "jdk",
+    "version": 8,
+    "rev": 92,
+    "platform": "linux",
+    "arch": "x64",
+    "ext": "tar.gz"
+  },
+  {
+    "build": "b13",
+    "file": "jdk-8u92-linux-i586.tar.gz",
+    "type": "jdk",
+    "version": 8,
+    "rev": 92,
+    "platform": "linux",
+    "arch": "i586",
+    "ext": "tar.gz"
+  },
+  {
+    "build": "b13",
+    "file": "jdk-8u92-macosx-x64.dmg",
+    "type": "jdk",
+    "version": 8,
+    "rev": 92,
+    "platform": "macosx",
+    "arch": "x64",
+    "ext": "dmg"
+  },
+  {
+    "build": "b13",
+    "file": "jdk-8u92-windows-i586.exe",
+    "type": "jdk",
+    "version": 8,
+    "rev": 92,
+    "platform": "windows",
+    "arch": "i586",
+    "ext": "exe"
+  },
+  {
+    "build": "b14",
+    "file": "jdk-8u92-windows-x64.exe",
+    "type": "jdk",
+    "version": 8,
+    "rev": 92,
+    "platform": "windows",
+    "arch": "x64",
+    "ext": "exe"
+  },
+  {
+    "build": "b14",
+    "file": "jre-7u80-linux-x64.tar.gz",
+    "type": "jre",
+    "version": 7,
+    "rev": 80,
+    "platform": "linux",
+    "arch": "x64",
+    "ext": "tar.gz"
+  },
+  {
+    "build": "b14",
+    "file": "jre-7u80-linux-i586.tar.gz",
+    "type": "jre",
+    "version": 7,
+    "rev": 80,
+    "platform": "linux",
+    "arch": "i586",
+    "ext": "tar.gz"
+  },
+  {
+    "build": "b14",
+    "file": "jre-7u80-macosx-x64.dmg",
+    "type": "jre",
+    "version": 7,
+    "rev": 80,
+    "platform": "macosx",
+    "arch": "x64",
+    "ext": "dmg"
+  },
+  {
+    "build": "b14",
+    "file": "jre-7u80-windows-i586.exe",
+    "type": "jre",
+    "version": 7,
+    "rev": 80,
+    "platform": "windows",
+    "arch": "i586",
+    "ext": "exe"
+  },
+  {
+    "build": "b14",
+    "file": "jre-7u80-windows-x64.exe",
+    "type": "jre",
+    "version": 7,
+    "rev": 80,
+    "platform": "windows",
+    "arch": "x64",
+    "ext": "exe"
+  },
+  {
+    "build": "b15",
+    "file": "jdk-7u80-linux-x64.tar.gz",
+    "type": "jdk",
+    "version": 7,
+    "rev": 80,
+    "platform": "linux",
+    "arch": "x64",
+    "ext": "tar.gz"
+  },
+  {
+    "build": "b15",
+    "file": "jdk-7u80-linux-i586.tar.gz",
+    "type": "jdk",
+    "version": 7,
+    "rev": 80,
+    "platform": "linux",
+    "arch": "i586",
+    "ext": "tar.gz"
+  },
+  {
+    "build": "b14",
+    "file": "jdk-7u80-macosx-x64.dmg",
+    "type": "jdk",
+    "version": 7,
+    "rev": 80,
+    "platform": "macosx",
+    "arch": "x64",
+    "ext": "dmg"
+  },
+  {
+    "build": "b14",
+    "file": "jdk-7u80-windows-i586.exe",
+    "type": "jdk",
+    "version": 7,
+    "rev": 80,
+    "platform": "windows",
+    "arch": "i586",
+    "ext": "exe"
+  },
+  {
+    "build": "b14",
+    "file": "jdk-7u80-windows-x64.exe",
+    "type": "jdk",
+    "version": 7,
+    "rev": 80,
+    "platform": "windows",
+    "arch": "x64",
+    "ext": "exe"
+  },
+  {
+    "build": "b13",
+    "file": "jre-6u91-linux-x64.tar.gz",
+    "type": "jre",
+    "version": 6,
+    "rev": 91,
+    "platform": "linux",
+    "arch": "x64",
+    "ext": "tar.gz"
+  },
+  {
+    "build": "b13",
+    "file": "jre-6u91-linux-i586.tar.gz",
+    "type": "jre",
+    "version": 6,
+    "rev": 91,
+    "platform": "linux",
+    "arch": "i586",
+    "ext": "tar.gz"
+  }
+]

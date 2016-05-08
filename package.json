@@ -1,0 +1,42 @@
+{
+  "name": "java-download",
+  "version": "0.1.0",
+  "description": "Downloads a JVM release archive from Oracle",
+  "main": "index.js",
+  "bin": {
+    "java-download": "cli.js",
+    "javadl": "cli.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blahah/java-download.git"
+  },
+  "keywords": [
+    "java",
+    "download",
+    "JVM"
+  ],
+  "author": "Richard Smith-Unna <rik@fathomlabs.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blahah/java-download/issues"
+  },
+  "homepage": "https://github.com/blahah/java-download#readme",
+  "devDependencies": {
+    "lodash.isequal": "^4.1.4"
+  },
+  "dependencies": {
+    "debug": "^2.2.0",
+    "home-path": "^1.0.3",
+    "lodash": "^4.11.1",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "mv": "^2.1.1",
+    "nugget": "^2.0.0",
+    "path-exists": "^2.1.0",
+    "rc": "^1.1.6"
+  }
+}
